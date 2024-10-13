@@ -1,0 +1,7 @@
+weights
+tools/__classes.py
+tools/__opencv_estimator.py
+data_generator_and_trainer.ipynb
+data_generator_cleared_and_trainer.ipynb
+evaluation.ipynb
+recognizer.ipynb
